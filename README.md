@@ -13,4 +13,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/harshit191/leetcode--solutions/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/harshit191/leetcode--solutions/tree/master/0678-valid-parenthesis-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/harshit191/leetcode--solutions/tree/master/0678-valid-parenthesis-string) |
+## Stack
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/harshit191/leetcode--solutions/tree/master/0678-valid-parenthesis-string) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/harshit191/leetcode--solutions/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/harshit191/leetcode--solutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
